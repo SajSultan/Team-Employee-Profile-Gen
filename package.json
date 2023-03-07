@@ -1,5 +1,29 @@
 {
   "dependencies": {
     "inquirer": "^8.2.5"
+  },
+  "name": "team-employee-profile-gen",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SajSultan/Team-Employee-Profile-Gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SajSultan/Team-Employee-Profile-Gen/issues"
+  },
+  "homepage": "https://github.com/SajSultan/Team-Employee-Profile-Gen#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
   }
 }

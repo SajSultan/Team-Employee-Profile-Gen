@@ -1,0 +1,38 @@
+.hero {
+    background-color: darkblue;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(45, 182, 182);
+    width: 26rem;
+    margin: 0.5rem;
+    
+
+}
+
+.card-body{
+    background-color: burlywood;
+    
+
+}
+
+.card-title {
+    color: blue;
+    font-size: 1rem;
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: darkblue;
+}
+h2 {
+    color: brown;
+    font-size: 1.5rem;
+}
+
+h3{
+    color: red;
+}
